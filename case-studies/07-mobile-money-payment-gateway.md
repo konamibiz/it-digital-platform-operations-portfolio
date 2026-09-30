@@ -33,5 +33,4 @@ According to the work information available to me, the introduction of mobile-mo
 - Business requirement gathering
 - Management coordination
 - Revenue-focused technology improvement
-
-> Portfolio note: The 7% figure should be supported by the relevant company reporting before being presented as independently verified attribution.
+ 
