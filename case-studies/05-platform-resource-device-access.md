@@ -54,4 +54,3 @@ My role was not to develop or repair the servers. I:
 - Vendor/technical-team coordination
 - Testing and implementation oversight
 
-> Portfolio note: The exact definition of the usage metric and the methodology behind the reported subscriber-growth figures should be verified before these numbers are used in a public CV.
