@@ -32,5 +32,4 @@ The work notes record a **2% increase in active paid subscribers** following the
 - Technology/vendor coordination
 - Subscriber acquisition strategy
 - Measuring business outcomes
-
-> Portfolio note: The 2% figure should be supported by the original reporting period and baseline before being presented publicly.
+ 
