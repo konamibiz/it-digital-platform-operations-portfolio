@@ -23,7 +23,7 @@ I also worked with other payment-gateway providers including Paystack and Flutte
 
 ## Reported outcome
 
-According to the work information available to me, the introduction of mobile-money payments contributed to a reported **7% increase in company revenue**, with users who previously could not pay through the available methods becoming able to subscribe.
+The introduction of mobile-money payments contributed to a reported **7% increase in company revenue**, with users who previously could not pay through the available methods becoming able to subscribe.
 
 ## What this demonstrates
 
