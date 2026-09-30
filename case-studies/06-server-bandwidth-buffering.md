@@ -39,5 +39,4 @@ I coordinated the issue between the support team, management and the hosting pro
 - Cost awareness
 - Preventive operational thinking
 - Customer-impact management
-
-> Portfolio note: The 66.67% figure should be supported with the original pricing comparison before being used as public evidence.
+ 
