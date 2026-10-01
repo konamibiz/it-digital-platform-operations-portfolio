@@ -74,6 +74,6 @@ No customer personal information, credentials, payment details or confidential c
 **Oluwaseyi John Osundina**  
 Lagos, Nigeria
 
-- LinkedIn: *Add profile link*
-- GitHub: *Add GitHub username*
-- Email: *Add professional email*
+- LinkedIn: *(https://www.linkedin.com/in/oluwaseyi-osundina*
+- GitHub: *konamibiz*
+- Email: *konamibiz@gmail.com*
