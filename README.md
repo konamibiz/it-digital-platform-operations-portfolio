@@ -4,7 +4,6 @@
 
 ![Oluwaseyi John Osundina](assets/profile-photo.jpg)
 
-**IT Operations | Digital Operations | Platform Management | Technology Coordination**
 
 Lagos, Nigeria
 
