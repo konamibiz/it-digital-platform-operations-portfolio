@@ -42,5 +42,3 @@ I reviewed monthly analytics and used the information to advise management on:
 - Content operations
 - Management reporting
 - Growth experimentation
-
-> Portfolio note: The growth should be presented as a company/channel outcome and your specific contribution should be described accurately rather than implying that SEO alone caused the entire increase.
