@@ -11,7 +11,7 @@ The channel had approximately **10,000 subscribers** when this work began.
 
 ## What I did
 
-played a hands-on role in the channel’s growth, managing content publishing and day-to-day channel operations while improving discoverability through YouTube SEO, strategic title and description optimization, relevant tags and hashtags, and effective content organization.
+I played a hands-on role in the channel’s growth, managing content publishing and day-to-day channel operations while improving discoverability through YouTube SEO, strategic title and description optimization, relevant tags and hashtags, and effective content organization.
 
 I also:
 
