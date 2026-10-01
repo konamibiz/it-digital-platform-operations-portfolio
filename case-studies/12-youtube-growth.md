@@ -11,16 +11,14 @@ The channel had approximately **10,000 subscribers** when this work began.
 
 ## What I did
 
-I supported the operation of the channel by:
+played a hands-on role in the channel’s growth, managing content publishing and day-to-day channel operations while improving discoverability through YouTube SEO, strategic title and description optimization, relevant tags and hashtags, and effective content organization.
 
-- publishing content;
-- applying YouTube SEO practices;
-- reviewing channel analytics;
-- advising management based on performance data;
-- recommending content and audience-growth improvements; and
-- introducing calls-to-action encouraging viewers to subscribe.
+I also:
 
-I also supported the creation of a dedicated subscription CTA video that could be incorporated into uploaded movies and series content.
+reviewed channel analytics and used performance data to advise management;
+recommended content and audience-growth improvements;
+introduced calls-to-action encouraging viewers to subscribe; and
+supported the creation of a dedicated subscription CTA video that could be incorporated into uploaded movies and series content.
 
 ## Reported outcome
 
