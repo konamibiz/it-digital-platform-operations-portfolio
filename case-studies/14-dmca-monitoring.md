@@ -27,10 +27,13 @@ It also provided a structured process for identifying and responding to unauthor
 
 ## What this demonstrates
 
-- Digital content monitoring
-- Copyright/DMCA workflow awareness
-- Online research
-- Content-protection operations
-- Digital revenue protection
-
+- Digital Content Protection
+- DMCA / Copyright Operations
+- Content Monitoring
+- Online Research & Investigation
+- Platform Policy Compliance
+- Digital Asset Protection
+- Takedown Workflow Management
+- Documentation & Case Tracking
+- Digital Revenue Protection
  
